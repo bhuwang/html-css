@@ -1,0 +1,23 @@
+	*{
+	margin:0;
+	padding:0;
+	}
+		.one{
+		background-color: red;
+		width:100px;
+		float:left;
+		height:5px;
+			}
+		.two{
+		background-color: green;
+		width:100px;
+		height:5px;
+		}
+		.three{
+		background-color: blue;
+		width:100px;
+		height:5px;
+		}
+		.wrapper{
+		background-color: yellow;
+		}
