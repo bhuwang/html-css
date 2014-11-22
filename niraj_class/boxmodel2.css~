@@ -1,0 +1,11 @@
+.main-wrapper{
+background-color: #d3d7cf;
+}
+
+.main{
+background-color: #E61C1C;
+width: 503px;
+margin:0 auto;
+height: 481px;
+padding: 15px 0px 10px 0px;
+}

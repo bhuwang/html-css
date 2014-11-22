@@ -1,0 +1,15 @@
+*{
+padding:0;
+margin: 0;
+
+}
+
+.menuwrapper{
+background-color: #3465a4;
+}
+
+.footerwrapper{
+background-color: #3465a4;
+clear: both;
+}
+

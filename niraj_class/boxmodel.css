@@ -1,0 +1,17 @@
+.main-wrapper{
+background-color: green;
+}
+
+.main{
+background-color: yellow;
+border: 3px solid red;
+width: 554px;
+margin:0 auto;
+height: 334px;
+padding: 30px 20px;
+margin: 20px 10px;
+}
+
+.content{
+background-color: orange;
+}

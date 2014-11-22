@@ -1,0 +1,61 @@
+<html>
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<title>Page Title</title>
+	<link rel="stylesheet" href="layout.css" type="text/css" media="screen" title="no title" charset="utf-8" />
+	<link rel="stylesheet" href="reset.css" type="text/css" media="screen" title="no title" charset="utf-8" />
+</head>
+<body id="ID " onload=""}>
+	<div class="site-wrapper">
+		<div class="header-wrapper">
+			<div class="header">
+				<p>.</p>
+				<p>.</p>
+				<p>Col 1 Css Layout</p>
+				<p>.</p>
+				<p>.</p>
+			</div>
+		</div>
+		<div class="main-container-wrapper col1">
+			<div class="main-container">
+				<div class="main-wrapper">
+					<div class="main">
+						<p>.</p>
+						<p>.</p>
+						<p>.</p>
+						<p>.</p>
+						<p>.</p>
+						<p>.</p>
+						<p>.</p>
+						<p>.</p>
+						<p>.</p>
+						<p>.</p>
+						<p>.</p>
+						<p>.</p>
+						<p>.</p>
+						<p>.</p>
+						<p>.</p>
+						<p>.</p>
+						<p>.</p>
+						<p>.</p>
+						<p>.</p>
+						<p>.</p>
+						<p>.</p>
+						<p>.</p>
+						<p>.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="footer-wrapper">
+			<div class="footer">
+				<p>.</p>
+				<p>.</p>
+				<p>@Copyright - 2014. All rights reserved.</p>
+				<p>.</p>
+				<p>.</p>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

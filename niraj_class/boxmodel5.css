@@ -1,0 +1,17 @@
+.main-wrapper{
+background-color: #d3d7cf;
+}
+
+.main{
+background-color: #E61C1C;
+width: 473px;
+height:585px;
+margin:5px;
+padding: 0px 10px 10px 15px;
+border-top-width: 5px;
+border-top-style: solid;
+border-top-color: black;
+border-left-width: 5px;
+border-left-style: solid;
+border-left-color: black;
+}

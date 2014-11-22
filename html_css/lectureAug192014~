@@ -1,0 +1,7 @@
+CSS
+----------------------------------
+Relative vs Absolute
+white-space: nowrap
+padding doesnot affect background position
+em vs pixel
+responsive = (target/content*100)%

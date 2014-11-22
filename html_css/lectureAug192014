@@ -1,0 +1,11 @@
+CSS
+----------------------------------
+Relative vs Absolute
+white-space: nowrap
+padding doesnot affect background position
+em vs pixel
+responsive = (target/content*100)%
+
+2 column layout response
+navigation menu with icon
+sub menu
