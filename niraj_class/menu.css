@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+.menuh,.menuv {
+    list-style-type: none;
+    margin: 20px;
+    padding: 0;
+}
+
+.menuh li:last-child,.menuv li:last-child{
+	border:none;
+}
+
+.menuh li{
+	border-right:2px solid;
+	display:inline;
+}
+.menuv li{
+	padding:10px;
+	border-bottom:2px solid;
+	width:50px;
+
+}
+
+.menuh li a{
+	padding:10px;
+	text-decoration:none;
+}
+
+.menuv li a{
+	text-decoration:none;
+}

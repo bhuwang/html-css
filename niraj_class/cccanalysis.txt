@@ -1,0 +1,20 @@
+mainwidth=576
+logototop(h)=18
+picpadding(from left)=39
+	(h)=62 others(h)=61
+picinbetween(h)=61
+logandtext(h)=17
+dateandtext(h)=27
+textandborder(h)=22
+borderandpic(h)=31
+picborderright(w)=pic(w)=19 boder+right(w)=19
+righttextreadmore(h)=29
+rightheaderparagraph(h)=16
+topandbottomborder(h)=2
+bottomborderandjoinourcommunity(h)=22
+joinourcommunityandtwitter(h)=19
+twittandface(w)=13
+footerborder(h)=1
+fbandtwitterandbottoborder(h)=23
+Readmorepadding(h)=10
+Readmorepadding(w)=18
